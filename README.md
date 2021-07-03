@@ -1,1 +1,1 @@
-Trust Fund to Donate money to kids for the future.
+Trust Fund to Donate money to kids in the future.
