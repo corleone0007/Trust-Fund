@@ -1,4 +1,5 @@
-pragma solidity =0.8.4;
+// SPDX-License-Identifier
+pragma solidity =0.8.12;
 
 contract trust {
     struct Kid {
